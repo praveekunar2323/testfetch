@@ -1,6 +1,7 @@
 Hello World to test fetch command
 testing fetchhhhhhhhh
 Adding third line
+<<<<<<< HEAD
 mdkmwsdms
 dskdmksmd
 
@@ -11,4 +12,7 @@ C
 C
 C
 C
+=======
+Fourth line chnages
+>>>>>>> parent of 1746fbb (Update fetch)
 Fifth line changes
